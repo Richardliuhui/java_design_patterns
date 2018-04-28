@@ -25,6 +25,7 @@ package me.zbl.command;
 
 /**
  * Command
+ * 命令模式
  */
 public class Application {
 

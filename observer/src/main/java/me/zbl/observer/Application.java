@@ -25,6 +25,7 @@ package me.zbl.observer;
 
 /**
  * Observer
+ * 观察者模式
  */
 public class Application {
 

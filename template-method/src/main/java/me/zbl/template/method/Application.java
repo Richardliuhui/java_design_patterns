@@ -28,6 +28,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Template method
+ * 模板模式
  */
 public class Application {
 

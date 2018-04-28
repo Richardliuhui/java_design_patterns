@@ -28,6 +28,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Decorator
+ * 装饰模式
  */
 public class Application {
 

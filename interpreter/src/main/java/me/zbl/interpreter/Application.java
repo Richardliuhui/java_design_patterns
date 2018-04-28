@@ -30,6 +30,7 @@ import java.util.Stack;
 
 /**
  * Interpreter
+ * 解释器模式
  */
 public class Application {
 

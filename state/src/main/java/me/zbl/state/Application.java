@@ -25,6 +25,7 @@ package me.zbl.state;
 
 /**
  * State
+ * 状态模式
  */
 public class Application {
 

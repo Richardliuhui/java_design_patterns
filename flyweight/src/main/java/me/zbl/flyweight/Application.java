@@ -25,6 +25,7 @@ package me.zbl.flyweight;
 
 /**
  * Flyweight
+ * 享元模式
  */
 public class Application {
 

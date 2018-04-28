@@ -25,6 +25,7 @@ package me.zbl.composite;
 
 /**
  * Composite
+ * 组合模式
  */
 public class Application {
 

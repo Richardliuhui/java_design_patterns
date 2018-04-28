@@ -30,6 +30,7 @@ import java.util.Stack;
 
 /**
  * Memento
+ * 备忘录模式
  */
 public class Application {
 

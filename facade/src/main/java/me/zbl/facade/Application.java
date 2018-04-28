@@ -25,6 +25,7 @@ package me.zbl.facade;
 
 /**
  * Facade
+ * 门面模式
  */
 public class Application {
 

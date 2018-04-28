@@ -25,6 +25,7 @@ package me.zbl.adapter;
 
 /**
  * Adapter
+ * 适醒器模式
  */
 public class Application {
 

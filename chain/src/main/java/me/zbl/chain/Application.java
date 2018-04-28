@@ -25,6 +25,7 @@ package me.zbl.chain;
 
 /**
  * Chian of Responsibility
+ * 责任链模式
  */
 public class Application {
 

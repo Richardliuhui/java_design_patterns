@@ -28,6 +28,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Mediator
+ * 中介模式
  */
 public class Application {
 

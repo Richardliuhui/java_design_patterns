@@ -28,6 +28,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Bridge
+ * 桥接模式
  */
 public class Application {
 
